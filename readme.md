@@ -1,3 +1,10 @@
+
+# Archivado
+
+Puedes encontrar datos de vacunación tomados automáticamente de reportes oficiales en [mauforonda/unidoscontraelcovid](https://github.com/mauforonda/vacunas_unidoscontraelcovid/), incluyendo [una serie de tiempo consolidada con datos de este repositorio desde el 3 de Febrero](https://github.com/mauforonda/vacunas_unidoscontraelcovid/blob/master/consolidado/vacunas.csv).
+
+---
+
 > Datos de vacunación de Covid-19 en Bolivia
 
 Incluye:
